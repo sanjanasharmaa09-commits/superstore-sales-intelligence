@@ -12,7 +12,7 @@
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard preview
 
 ![Sales Dashboard](sales_dashboard.png)
 
