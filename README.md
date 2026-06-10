@@ -69,8 +69,8 @@ A US-based retail superstore with operations across **3 product categories**,
 
 ---
 
-## 📁 Project Files
-anjanasharmaa09/
+## Project Files
+sanjanasharmaa09/
 │
 ├── 01Data_cleaning.ipynb     ← Data cleaning, null handling, type fixes
 ├── 02_EDA.ipynb              ← Full exploratory data analysis + insights
