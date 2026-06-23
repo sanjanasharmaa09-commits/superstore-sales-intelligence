@@ -12,7 +12,7 @@
 
 ---
 
-## Dashboard preview
+## Dashboard Preview
 
 ![Sales Dashboard](sales_dashboard.png)
 
