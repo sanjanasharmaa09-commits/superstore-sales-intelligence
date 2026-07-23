@@ -8,7 +8,7 @@
 
 > End-to-end retail sales analytics project analyzing **9,994 orders** across  
 > **2019–2022** using Python, MySQL & Power BI to uncover revenue trends,  
-> profit drivers, and customer segment insighTS.
+> profit drivers, and customer segment insights.
 
 ---
 
