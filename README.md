@@ -1,4 +1,4 @@
-# 🛒 Superstore Sales Intelligence Dashboard
+# Superstore Sales Intelligence Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?style=flat&logo=mysql&logoColor=white)
@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - [Problem Statement](#-problem-statement)
 - [Project KPIs](#-project-kpis)
 - [Tech Stack](#-tech-stack)
@@ -44,7 +44,7 @@ A US-based retail superstore with operations across **3 product categories**,
 
 ---
 
-## 📈 Project KPIs
+## Project KPIs
 
 | Metric | Value |
 |--------|-------|
