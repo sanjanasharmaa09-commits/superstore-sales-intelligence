@@ -159,13 +159,10 @@ Open 02_EDA.ipynb          → Run All  (generates all EDA charts)
 
 ---
 
-##  Connect with Me
+## Connect with Me
 
 **Sanjana Sharma**  
-BCA — AI & Data Science · Graphic Era Hill University, Bhimtal · CGPA: 9.1
-
 [![GitHub](https://img.shields.io/badge/GitHub-sanjanasharmaa09-black?style=flat&logo=github)](https://github.com/sanjanasharmaa09)
-[![Instagram](https://img.shields.io/badge/Instagram-@sanjanaaa__258-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sanjanaaa_258)
 
 > **Open to:** Data Analyst Internships · TCS · Infosys · Wipro · Entry-level DA roles
 
