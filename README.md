@@ -113,7 +113,7 @@ Sales_dashboard.pbix     →  3-page interactive Power BI dashboard
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Step 1 — Clone the repository
 ```bash
