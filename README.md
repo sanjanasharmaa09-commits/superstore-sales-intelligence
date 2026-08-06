@@ -157,8 +157,6 @@ Open 02_EDA.ipynb          → Run All  (generates all EDA charts)
 | Categories | Technology · Furniture · Office Supplies |
 | Segments | Consumer · Corporate · Home Office |
 
----
-
 ## Connect with Me
 
 **Sanjana Sharma**  
