@@ -10,8 +10,7 @@
 > **2019–2022** using Python, MySQL & Power BI to uncover revenue trends,
 > profit drivers, and customer segment insights.
 
----
-
+--
 ## Dashboard Preview
 
 ![Sales Dashboard](sales_dashboard.png)
