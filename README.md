@@ -13,7 +13,8 @@
 --
 ## Dashboard Preview
 
-![Sales Dashboard](C:\Users\absha\OneDrive\Pictures\Screenshots
+![Sales Dashboard](![Uploading image.png…]()
+
 )
 
 ---
