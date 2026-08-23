@@ -13,7 +13,7 @@
 --
 ## Dashboard Preview
 
-![Sales Dashboard](<img width="640" height="551" alt="Screenshot 2026-06-05 202652" src="https://github.com/user-attachments/assets/0767bced-a9ba-488c-878f-bb629a3e047d" />
+![Sales Dashboard](C:\Users\absha\OneDrive\Pictures\Screenshots
 )
 
 ---
